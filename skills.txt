@@ -1,0 +1,13 @@
+skills on the course well
+
+1) Terminal (gitbash)
+2) JavaScript
+3) Postman
+4) Python
+5) SQL
+6) Charles
+7) jira
+8) Jmeter
+9) Test-case
+10) English languege
+11) Soft-skills
